@@ -5,7 +5,7 @@ Welcome to the official repository for the Travel Agency website! This website s
 
 ## Table of Contents
 
-Travel Agencz Website| 
+Travel Agency Website | 
 Introduction |
 Features |
 Installation |
