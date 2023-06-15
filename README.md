@@ -5,7 +5,7 @@ Welcome to the official repository for the Travel Agency website! This website s
 
 ## Table of Contents
 
-Travel Agencz Website (https://github.com/Cyriljuuu/Project_for_schoolWA/blob/master/README.md#travel-agency-website)| 
+[Travel Agencz Website] (https://github.com/Cyriljuuu/Project_for_schoolWA/blob/master/README.md#travel-agency-website)| 
 Introduction |
 Features |
 Installation |
